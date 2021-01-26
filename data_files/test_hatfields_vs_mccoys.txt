@@ -1,0 +1,4 @@
+4	-3	-1	McCoy
+-4	7	1	Hatfield
+-2	-2	1	Hatfield
+2	2	-1	McCoy
