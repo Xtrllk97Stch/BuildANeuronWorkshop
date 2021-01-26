@@ -1,0 +1,1249 @@
+Learning the Hatfields vs. McCoys Problem
+
+Doing homework ... .
+The current weights are -0.500, 0.500, and the bias is 0.000.
+The predicted target value is -0.500, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 2.0.
+
+The current weights are -0.600, 0.380, and the bias is 0.020.
+The predicted target value is 3.080, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.600, 0.380, and the bias is 0.020.
+The predicted target value is 2.260, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.600, 0.380, and the bias is 0.020.
+The predicted target value is 4.760, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.600, 0.380, and the bias is 0.020.
+The predicted target value is 3.940, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.600, 0.380, and the bias is 0.020.
+The predicted target value is 0.300, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.600, 0.380, and the bias is 0.020.
+The predicted target value is 1.980, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.600, 0.380, and the bias is 0.020.
+The predicted target value is 3.280, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.600, 0.380, and the bias is 0.020.
+The predicted target value is 1.920, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.600, 0.380, and the bias is 0.020.
+The predicted target value is 1.860, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.600, 0.380, and the bias is 0.020.
+The predicted target value is 4.600, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.600, 0.380, and the bias is 0.020.
+The predicted target value is 4.660, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.600, 0.380, and the bias is 0.020.
+The predicted target value is 1.180, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.600, 0.380, and the bias is 0.020.
+The predicted target value is 0.420, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.600, 0.380, and the bias is 0.020.
+The predicted target value is 2.800, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.600, 0.380, and the bias is 0.020.
+The predicted target value is 2.020, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.600, 0.380, and the bias is 0.020.
+The predicted target value is 0.780, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.600, 0.380, and the bias is 0.020.
+The predicted target value is 1.700, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.600, 0.380, and the bias is 0.020.
+The predicted target value is 0.140, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.600, 0.380, and the bias is 0.020.
+The predicted target value is 4.640, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.600, 0.380, and the bias is 0.020.
+The predicted target value is -1.820, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.600, 0.380, and the bias is 0.020.
+The predicted target value is -2.100, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.600, 0.380, and the bias is 0.020.
+The predicted target value is -4.660, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.600, 0.380, and the bias is 0.020.
+The predicted target value is -1.560, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.600, 0.380, and the bias is 0.020.
+The predicted target value is -4.940, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.600, 0.380, and the bias is 0.020.
+The predicted target value is -2.980, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.600, 0.380, and the bias is 0.020.
+The predicted target value is -0.260, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.600, 0.380, and the bias is 0.020.
+The predicted target value is -1.460, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.600, 0.380, and the bias is 0.020.
+The predicted target value is -0.920, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.600, 0.380, and the bias is 0.020.
+The predicted target value is 0.440, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is -1.0, and the real label is "McCoy", so the error is -2.0.
+
+The current weights are -0.700, 0.200, and the bias is 0.000.
+The predicted target value is -3.000, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.700, 0.200, and the bias is 0.000.
+The predicted target value is -1.400, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.700, 0.200, and the bias is 0.000.
+The predicted target value is -3.800, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.700, 0.200, and the bias is 0.000.
+The predicted target value is 1.000, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is -1.0, and the real label is "McCoy", so the error is -2.0.
+
+The current weights are -0.620, 0.380, and the bias is -0.020.
+The predicted target value is -1.300, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.620, 0.380, and the bias is -0.020.
+The predicted target value is -1.940, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.620, 0.380, and the bias is -0.020.
+The predicted target value is -6.780, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.620, 0.380, and the bias is -0.020.
+The predicted target value is -0.560, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.620, 0.380, and the bias is -0.020.
+The predicted target value is -2.300, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.620, 0.380, and the bias is -0.020.
+The predicted target value is -4.440, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+After iteration 1, the total error is 6.0000
+
+The current weights are -0.620, 0.380, and the bias is -0.020.
+The predicted target value is 0.800, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.620, 0.380, and the bias is -0.020.
+The predicted target value is 3.180, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.620, 0.380, and the bias is -0.020.
+The predicted target value is 2.320, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.620, 0.380, and the bias is -0.020.
+The predicted target value is 4.840, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.620, 0.380, and the bias is -0.020.
+The predicted target value is 3.980, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.620, 0.380, and the bias is -0.020.
+The predicted target value is 0.320, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.620, 0.380, and the bias is -0.020.
+The predicted target value is 1.980, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.620, 0.380, and the bias is -0.020.
+The predicted target value is 3.260, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.620, 0.380, and the bias is -0.020.
+The predicted target value is 1.880, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.620, 0.380, and the bias is -0.020.
+The predicted target value is 1.780, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.620, 0.380, and the bias is -0.020.
+The predicted target value is 4.700, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.620, 0.380, and the bias is -0.020.
+The predicted target value is 4.800, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.620, 0.380, and the bias is -0.020.
+The predicted target value is 1.280, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.620, 0.380, and the bias is -0.020.
+The predicted target value is 0.520, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.620, 0.380, and the bias is -0.020.
+The predicted target value is 2.840, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.620, 0.380, and the bias is -0.020.
+The predicted target value is 1.920, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.620, 0.380, and the bias is -0.020.
+The predicted target value is 0.740, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.620, 0.380, and the bias is -0.020.
+The predicted target value is 1.640, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.620, 0.380, and the bias is -0.020.
+The predicted target value is 0.180, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.620, 0.380, and the bias is -0.020.
+The predicted target value is 4.640, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.620, 0.380, and the bias is -0.020.
+The predicted target value is -1.820, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.620, 0.380, and the bias is -0.020.
+The predicted target value is -2.160, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.620, 0.380, and the bias is -0.020.
+The predicted target value is -4.780, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.620, 0.380, and the bias is -0.020.
+The predicted target value is -1.640, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.620, 0.380, and the bias is -0.020.
+The predicted target value is -5.120, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.620, 0.380, and the bias is -0.020.
+The predicted target value is -3.120, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.620, 0.380, and the bias is -0.020.
+The predicted target value is -0.360, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.620, 0.380, and the bias is -0.020.
+The predicted target value is -1.600, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.620, 0.380, and the bias is -0.020.
+The predicted target value is -1.080, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.620, 0.380, and the bias is -0.020.
+The predicted target value is 0.300, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is -1.0, and the real label is "McCoy", so the error is -2.0.
+
+The current weights are -0.720, 0.200, and the bias is -0.040.
+The predicted target value is -3.080, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.720, 0.200, and the bias is -0.040.
+The predicted target value is -1.520, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.720, 0.200, and the bias is -0.040.
+The predicted target value is -3.960, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.720, 0.200, and the bias is -0.040.
+The predicted target value is 1.040, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is -1.0, and the real label is "McCoy", so the error is -2.0.
+
+The current weights are -0.640, 0.380, and the bias is -0.060.
+The predicted target value is -1.320, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.640, 0.380, and the bias is -0.060.
+The predicted target value is -2.140, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.640, 0.380, and the bias is -0.060.
+The predicted target value is -6.940, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.640, 0.380, and the bias is -0.060.
+The predicted target value is -0.740, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.640, 0.380, and the bias is -0.060.
+The predicted target value is -2.340, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.640, 0.380, and the bias is -0.060.
+The predicted target value is -4.500, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+After iteration 2, the total error is 4.0000
+
+The current weights are -0.640, 0.380, and the bias is -0.060.
+The predicted target value is 0.860, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.640, 0.380, and the bias is -0.060.
+The predicted target value is 3.280, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.640, 0.380, and the bias is -0.060.
+The predicted target value is 2.380, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.640, 0.380, and the bias is -0.060.
+The predicted target value is 4.920, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.640, 0.380, and the bias is -0.060.
+The predicted target value is 4.020, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.640, 0.380, and the bias is -0.060.
+The predicted target value is 0.340, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.640, 0.380, and the bias is -0.060.
+The predicted target value is 1.980, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.640, 0.380, and the bias is -0.060.
+The predicted target value is 3.240, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.640, 0.380, and the bias is -0.060.
+The predicted target value is 1.840, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.640, 0.380, and the bias is -0.060.
+The predicted target value is 1.700, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.640, 0.380, and the bias is -0.060.
+The predicted target value is 4.800, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.640, 0.380, and the bias is -0.060.
+The predicted target value is 4.940, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.640, 0.380, and the bias is -0.060.
+The predicted target value is 1.380, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.640, 0.380, and the bias is -0.060.
+The predicted target value is 0.620, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.640, 0.380, and the bias is -0.060.
+The predicted target value is 2.880, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.640, 0.380, and the bias is -0.060.
+The predicted target value is 1.820, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.640, 0.380, and the bias is -0.060.
+The predicted target value is 0.700, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.640, 0.380, and the bias is -0.060.
+The predicted target value is 1.580, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.640, 0.380, and the bias is -0.060.
+The predicted target value is 0.220, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.640, 0.380, and the bias is -0.060.
+The predicted target value is 4.640, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.640, 0.380, and the bias is -0.060.
+The predicted target value is -1.820, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.640, 0.380, and the bias is -0.060.
+The predicted target value is -2.220, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.640, 0.380, and the bias is -0.060.
+The predicted target value is -4.900, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.640, 0.380, and the bias is -0.060.
+The predicted target value is -1.720, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.640, 0.380, and the bias is -0.060.
+The predicted target value is -5.300, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.640, 0.380, and the bias is -0.060.
+The predicted target value is -3.260, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.640, 0.380, and the bias is -0.060.
+The predicted target value is -0.460, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.640, 0.380, and the bias is -0.060.
+The predicted target value is -1.740, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.640, 0.380, and the bias is -0.060.
+The predicted target value is -1.240, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.640, 0.380, and the bias is -0.060.
+The predicted target value is 0.160, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is -1.0, and the real label is "McCoy", so the error is -2.0.
+
+The current weights are -0.740, 0.200, and the bias is -0.080.
+The predicted target value is -3.160, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.740, 0.200, and the bias is -0.080.
+The predicted target value is -1.640, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.740, 0.200, and the bias is -0.080.
+The predicted target value is -4.120, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.740, 0.200, and the bias is -0.080.
+The predicted target value is 1.080, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is -1.0, and the real label is "McCoy", so the error is -2.0.
+
+The current weights are -0.660, 0.380, and the bias is -0.100.
+The predicted target value is -1.340, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.660, 0.380, and the bias is -0.100.
+The predicted target value is -2.340, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.660, 0.380, and the bias is -0.100.
+The predicted target value is -7.100, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.660, 0.380, and the bias is -0.100.
+The predicted target value is -0.920, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.660, 0.380, and the bias is -0.100.
+The predicted target value is -2.380, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.660, 0.380, and the bias is -0.100.
+The predicted target value is -4.560, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+After iteration 3, the total error is 4.0000
+
+The current weights are -0.660, 0.380, and the bias is -0.100.
+The predicted target value is 0.920, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.660, 0.380, and the bias is -0.100.
+The predicted target value is 3.380, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.660, 0.380, and the bias is -0.100.
+The predicted target value is 2.440, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.660, 0.380, and the bias is -0.100.
+The predicted target value is 5.000, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.660, 0.380, and the bias is -0.100.
+The predicted target value is 4.060, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.660, 0.380, and the bias is -0.100.
+The predicted target value is 0.360, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.660, 0.380, and the bias is -0.100.
+The predicted target value is 1.980, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.660, 0.380, and the bias is -0.100.
+The predicted target value is 3.220, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.660, 0.380, and the bias is -0.100.
+The predicted target value is 1.800, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.660, 0.380, and the bias is -0.100.
+The predicted target value is 1.620, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.660, 0.380, and the bias is -0.100.
+The predicted target value is 4.900, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.660, 0.380, and the bias is -0.100.
+The predicted target value is 5.080, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.660, 0.380, and the bias is -0.100.
+The predicted target value is 1.480, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.660, 0.380, and the bias is -0.100.
+The predicted target value is 0.720, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.660, 0.380, and the bias is -0.100.
+The predicted target value is 2.920, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.660, 0.380, and the bias is -0.100.
+The predicted target value is 1.720, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.660, 0.380, and the bias is -0.100.
+The predicted target value is 0.660, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.660, 0.380, and the bias is -0.100.
+The predicted target value is 1.520, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.660, 0.380, and the bias is -0.100.
+The predicted target value is 0.260, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.660, 0.380, and the bias is -0.100.
+The predicted target value is 4.640, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.660, 0.380, and the bias is -0.100.
+The predicted target value is -1.820, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.660, 0.380, and the bias is -0.100.
+The predicted target value is -2.280, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.660, 0.380, and the bias is -0.100.
+The predicted target value is -5.020, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.660, 0.380, and the bias is -0.100.
+The predicted target value is -1.800, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.660, 0.380, and the bias is -0.100.
+The predicted target value is -5.480, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.660, 0.380, and the bias is -0.100.
+The predicted target value is -3.400, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.660, 0.380, and the bias is -0.100.
+The predicted target value is -0.560, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.660, 0.380, and the bias is -0.100.
+The predicted target value is -1.880, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.660, 0.380, and the bias is -0.100.
+The predicted target value is -1.400, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.660, 0.380, and the bias is -0.100.
+The predicted target value is 0.020, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is -1.0, and the real label is "McCoy", so the error is -2.0.
+
+The current weights are -0.760, 0.200, and the bias is -0.120.
+The predicted target value is -3.240, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.760, 0.200, and the bias is -0.120.
+The predicted target value is -1.760, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.760, 0.200, and the bias is -0.120.
+The predicted target value is -4.280, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.760, 0.200, and the bias is -0.120.
+The predicted target value is 1.120, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is -1.0, and the real label is "McCoy", so the error is -2.0.
+
+The current weights are -0.680, 0.380, and the bias is -0.140.
+The predicted target value is -1.360, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.680, 0.380, and the bias is -0.140.
+The predicted target value is -2.540, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.680, 0.380, and the bias is -0.140.
+The predicted target value is -7.260, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.680, 0.380, and the bias is -0.140.
+The predicted target value is -1.100, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.680, 0.380, and the bias is -0.140.
+The predicted target value is -2.420, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.680, 0.380, and the bias is -0.140.
+The predicted target value is -4.620, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+After iteration 4, the total error is 4.0000
+
+The current weights are -0.680, 0.380, and the bias is -0.140.
+The predicted target value is 0.980, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.680, 0.380, and the bias is -0.140.
+The predicted target value is 3.480, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.680, 0.380, and the bias is -0.140.
+The predicted target value is 2.500, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.680, 0.380, and the bias is -0.140.
+The predicted target value is 5.080, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.680, 0.380, and the bias is -0.140.
+The predicted target value is 4.100, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.680, 0.380, and the bias is -0.140.
+The predicted target value is 0.380, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.680, 0.380, and the bias is -0.140.
+The predicted target value is 1.980, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.680, 0.380, and the bias is -0.140.
+The predicted target value is 3.200, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.680, 0.380, and the bias is -0.140.
+The predicted target value is 1.760, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.680, 0.380, and the bias is -0.140.
+The predicted target value is 1.540, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.680, 0.380, and the bias is -0.140.
+The predicted target value is 5.000, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.680, 0.380, and the bias is -0.140.
+The predicted target value is 5.220, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.680, 0.380, and the bias is -0.140.
+The predicted target value is 1.580, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.680, 0.380, and the bias is -0.140.
+The predicted target value is 0.820, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.680, 0.380, and the bias is -0.140.
+The predicted target value is 2.960, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.680, 0.380, and the bias is -0.140.
+The predicted target value is 1.620, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.680, 0.380, and the bias is -0.140.
+The predicted target value is 0.620, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.680, 0.380, and the bias is -0.140.
+The predicted target value is 1.460, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.680, 0.380, and the bias is -0.140.
+The predicted target value is 0.300, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.680, 0.380, and the bias is -0.140.
+The predicted target value is 4.640, the masked target value is 1, and the predicted label is "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield", so the error is 0.0.
+
+The current weights are -0.680, 0.380, and the bias is -0.140.
+The predicted target value is -1.820, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.680, 0.380, and the bias is -0.140.
+The predicted target value is -2.340, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.680, 0.380, and the bias is -0.140.
+The predicted target value is -5.140, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.680, 0.380, and the bias is -0.140.
+The predicted target value is -1.880, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.680, 0.380, and the bias is -0.140.
+The predicted target value is -5.660, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.680, 0.380, and the bias is -0.140.
+The predicted target value is -3.540, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.680, 0.380, and the bias is -0.140.
+The predicted target value is -0.660, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.680, 0.380, and the bias is -0.140.
+The predicted target value is -2.020, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.680, 0.380, and the bias is -0.140.
+The predicted target value is -1.560, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.680, 0.380, and the bias is -0.140.
+The predicted target value is -0.120, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.680, 0.380, and the bias is -0.140.
+The predicted target value is -4.540, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.680, 0.380, and the bias is -0.140.
+The predicted target value is -0.200, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.680, 0.380, and the bias is -0.140.
+The predicted target value is -3.460, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.680, 0.380, and the bias is -0.140.
+The predicted target value is -0.840, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.680, 0.380, and the bias is -0.140.
+The predicted target value is -1.360, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.680, 0.380, and the bias is -0.140.
+The predicted target value is -2.540, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.680, 0.380, and the bias is -0.140.
+The predicted target value is -7.260, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.680, 0.380, and the bias is -0.140.
+The predicted target value is -1.100, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.680, 0.380, and the bias is -0.140.
+The predicted target value is -2.420, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+The current weights are -0.680, 0.380, and the bias is -0.140.
+The predicted target value is -4.620, the masked target value is -1, and the predicted label is "McCoy".
+The real target value is -1.0, and the real label is "McCoy", so the error is 0.0.
+
+After iteration 5, the total error is 0.0000
+
+Taking the exam ....
+For this datapoint, the feature values are F1 = 4.0, F2 = -3.0.
+The target value is predicted to be -4.000, so the masked value would be -1, and the label should be "McCoy".
+The real target value is -1.0, and the real label is "McCoy".
+That is correct!
+
+For this datapoint, the feature values are F1 = -4.0, F2 = 7.0.
+The target value is predicted to be 5.240, so the masked value would be 1, and the label should be "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield".
+That is correct!
+
+For this datapoint, the feature values are F1 = -2.0, F2 = -2.0.
+The target value is predicted to be 0.460, so the masked value would be 1, and the label should be "Hatfield".
+The real target value is 1.0, and the real label is "Hatfield".
+That is correct!
+
+For this datapoint, the feature values are F1 = 2.0, F2 = 2.0.
+The target value is predicted to be -0.740, so the masked value would be -1, and the label should be "McCoy".
+The real target value is -1.0, and the real label is "McCoy".
+That is correct!
+
+4 out of 4 test points correctly labeled!
+
+
+Learning to Recognize Faces
+
+Doing homework ... .
+The current weights are 0.428, 0.896, 0.386, 0.223, 0.764, 0.041, 0.915, 0.555, 0.957, 0.610, 0.437, 0.425, 0.791, 0.096, 0.861, 0.834, 0.701, 0.564, 0.903, 0.385, 0.341, 0.405, 0.513, 0.749, 0.520, and the bias is 0.808.
+The predicted target value is 1.455, the masked target value is 1, and the predicted label is "friend".
+The real target value is 1.0, and the real label is "friend", so the error is 0.0.
+
+The current weights are 0.428, 0.896, 0.386, 0.223, 0.764, 0.041, 0.915, 0.555, 0.957, 0.610, 0.437, 0.425, 0.791, 0.096, 0.861, 0.834, 0.701, 0.564, 0.903, 0.385, 0.341, 0.405, 0.513, 0.749, 0.520, and the bias is 0.808.
+The predicted target value is 0.174, the masked target value is 1, and the predicted label is "friend".
+The real target value is 1.0, and the real label is "friend", so the error is 0.0.
+
+The current weights are 0.428, 0.896, 0.386, 0.223, 0.764, 0.041, 0.915, 0.555, 0.957, 0.610, 0.437, 0.425, 0.791, 0.096, 0.861, 0.834, 0.701, 0.564, 0.903, 0.385, 0.341, 0.405, 0.513, 0.749, 0.520, and the bias is 0.808.
+The predicted target value is 2.363, the masked target value is 1, and the predicted label is "friend".
+The real target value is 1.0, and the real label is "friend", so the error is 0.0.
+
+The current weights are 0.428, 0.896, 0.386, 0.223, 0.764, 0.041, 0.915, 0.555, 0.957, 0.610, 0.437, 0.425, 0.791, 0.096, 0.861, 0.834, 0.701, 0.564, 0.903, 0.385, 0.341, 0.405, 0.513, 0.749, 0.520, and the bias is 0.808.
+The predicted target value is -2.156, the masked target value is -1, and the predicted label is "fry".
+The real target value is 1.0, and the real label is "friend", so the error is 2.0.
+
+The current weights are 0.408, 0.876, 0.366, 0.203, 0.744, 0.061, 0.935, 0.575, 0.937, 0.590, 0.457, 0.445, 0.811, 0.076, 0.841, 0.854, 0.721, 0.584, 0.883, 0.365, 0.321, 0.425, 0.493, 0.729, 0.500, and the bias is 0.828.
+The predicted target value is -0.452, the masked target value is -1, and the predicted label is "fry".
+The real target value is 1.0, and the real label is "friend", so the error is 2.0.
+
+The current weights are 0.388, 0.856, 0.346, 0.183, 0.724, 0.041, 0.955, 0.595, 0.957, 0.570, 0.437, 0.465, 0.831, 0.096, 0.821, 0.834, 0.741, 0.604, 0.903, 0.345, 0.301, 0.405, 0.513, 0.709, 0.480, and the bias is 0.848.
+The predicted target value is -0.388, the masked target value is -1, and the predicted label is "fry".
+The real target value is 1.0, and the real label is "friend", so the error is 2.0.
+
+The current weights are 0.368, 0.836, 0.326, 0.163, 0.704, 0.021, 0.935, 0.615, 0.977, 0.590, 0.417, 0.445, 0.851, 0.116, 0.841, 0.814, 0.721, 0.624, 0.923, 0.365, 0.281, 0.385, 0.493, 0.729, 0.460, and the bias is 0.868.
+The predicted target value is -3.071, the masked target value is -1, and the predicted label is "fry".
+The real target value is 1.0, and the real label is "friend", so the error is 2.0.
+
+The current weights are 0.348, 0.816, 0.306, 0.143, 0.684, 0.001, 0.915, 0.595, 0.957, 0.570, 0.437, 0.465, 0.871, 0.096, 0.821, 0.834, 0.741, 0.644, 0.903, 0.345, 0.301, 0.405, 0.513, 0.709, 0.440, and the bias is 0.888.
+The predicted target value is -2.288, the masked target value is -1, and the predicted label is "fry".
+The real target value is 1.0, and the real label is "friend", so the error is 2.0.
+
+The current weights are 0.328, 0.796, 0.286, 0.123, 0.664, -0.019, 0.895, 0.575, 0.937, 0.550, 0.417, 0.445, 0.891, 0.116, 0.841, 0.814, 0.721, 0.664, 0.923, 0.365, 0.281, 0.385, 0.533, 0.729, 0.460, and the bias is 0.908.
+The predicted target value is -7.392, the masked target value is -1, and the predicted label is "fry".
+The real target value is -1.0, and the real label is "fry", so the error is 0.0.
+
+The current weights are 0.328, 0.796, 0.286, 0.123, 0.664, -0.019, 0.895, 0.575, 0.937, 0.550, 0.417, 0.445, 0.891, 0.116, 0.841, 0.814, 0.721, 0.664, 0.923, 0.365, 0.281, 0.385, 0.533, 0.729, 0.460, and the bias is 0.908.
+The predicted target value is -10.698, the masked target value is -1, and the predicted label is "fry".
+The real target value is -1.0, and the real label is "fry", so the error is 0.0.
+
+The current weights are 0.328, 0.796, 0.286, 0.123, 0.664, -0.019, 0.895, 0.575, 0.937, 0.550, 0.417, 0.445, 0.891, 0.116, 0.841, 0.814, 0.721, 0.664, 0.923, 0.365, 0.281, 0.385, 0.533, 0.729, 0.460, and the bias is 0.908.
+The predicted target value is -10.631, the masked target value is -1, and the predicted label is "fry".
+The real target value is -1.0, and the real label is "fry", so the error is 0.0.
+
+The current weights are 0.328, 0.796, 0.286, 0.123, 0.664, -0.019, 0.895, 0.575, 0.937, 0.550, 0.417, 0.445, 0.891, 0.116, 0.841, 0.814, 0.721, 0.664, 0.923, 0.365, 0.281, 0.385, 0.533, 0.729, 0.460, and the bias is 0.908.
+The predicted target value is -9.837, the masked target value is -1, and the predicted label is "fry".
+The real target value is -1.0, and the real label is "fry", so the error is 0.0.
+
+The current weights are 0.328, 0.796, 0.286, 0.123, 0.664, -0.019, 0.895, 0.575, 0.937, 0.550, 0.417, 0.445, 0.891, 0.116, 0.841, 0.814, 0.721, 0.664, 0.923, 0.365, 0.281, 0.385, 0.533, 0.729, 0.460, and the bias is 0.908.
+The predicted target value is -8.683, the masked target value is -1, and the predicted label is "fry".
+The real target value is -1.0, and the real label is "fry", so the error is 0.0.
+
+The current weights are 0.328, 0.796, 0.286, 0.123, 0.664, -0.019, 0.895, 0.575, 0.937, 0.550, 0.417, 0.445, 0.891, 0.116, 0.841, 0.814, 0.721, 0.664, 0.923, 0.365, 0.281, 0.385, 0.533, 0.729, 0.460, and the bias is 0.908.
+The predicted target value is -8.582, the masked target value is -1, and the predicted label is "fry".
+The real target value is -1.0, and the real label is "fry", so the error is 0.0.
+
+The current weights are 0.328, 0.796, 0.286, 0.123, 0.664, -0.019, 0.895, 0.575, 0.937, 0.550, 0.417, 0.445, 0.891, 0.116, 0.841, 0.814, 0.721, 0.664, 0.923, 0.365, 0.281, 0.385, 0.533, 0.729, 0.460, and the bias is 0.908.
+The predicted target value is -9.136, the masked target value is -1, and the predicted label is "fry".
+The real target value is -1.0, and the real label is "fry", so the error is 0.0.
+
+The current weights are 0.328, 0.796, 0.286, 0.123, 0.664, -0.019, 0.895, 0.575, 0.937, 0.550, 0.417, 0.445, 0.891, 0.116, 0.841, 0.814, 0.721, 0.664, 0.923, 0.365, 0.281, 0.385, 0.533, 0.729, 0.460, and the bias is 0.908.
+The predicted target value is -8.263, the masked target value is -1, and the predicted label is "fry".
+The real target value is -1.0, and the real label is "fry", so the error is 0.0.
+
+After iteration 1, the total error is 10.0000
+
+The current weights are 0.328, 0.796, 0.286, 0.123, 0.664, -0.019, 0.895, 0.575, 0.937, 0.550, 0.417, 0.445, 0.891, 0.116, 0.841, 0.814, 0.721, 0.664, 0.923, 0.365, 0.281, 0.385, 0.533, 0.729, 0.460, and the bias is 0.908.
+The predicted target value is 1.935, the masked target value is 1, and the predicted label is "friend".
+The real target value is 1.0, and the real label is "friend", so the error is 0.0.
+
+The current weights are 0.328, 0.796, 0.286, 0.123, 0.664, -0.019, 0.895, 0.575, 0.937, 0.550, 0.417, 0.445, 0.891, 0.116, 0.841, 0.814, 0.721, 0.664, 0.923, 0.365, 0.281, 0.385, 0.533, 0.729, 0.460, and the bias is 0.908.
+The predicted target value is 0.254, the masked target value is 1, and the predicted label is "friend".
+The real target value is 1.0, and the real label is "friend", so the error is 0.0.
+
+The current weights are 0.328, 0.796, 0.286, 0.123, 0.664, -0.019, 0.895, 0.575, 0.937, 0.550, 0.417, 0.445, 0.891, 0.116, 0.841, 0.814, 0.721, 0.664, 0.923, 0.365, 0.281, 0.385, 0.533, 0.729, 0.460, and the bias is 0.908.
+The predicted target value is 2.443, the masked target value is 1, and the predicted label is "friend".
+The real target value is 1.0, and the real label is "friend", so the error is 0.0.
+
+The current weights are 0.328, 0.796, 0.286, 0.123, 0.664, -0.019, 0.895, 0.575, 0.937, 0.550, 0.417, 0.445, 0.891, 0.116, 0.841, 0.814, 0.721, 0.664, 0.923, 0.365, 0.281, 0.385, 0.533, 0.729, 0.460, and the bias is 0.908.
+The predicted target value is -1.236, the masked target value is -1, and the predicted label is "fry".
+The real target value is 1.0, and the real label is "friend", so the error is 2.0.
+
+The current weights are 0.308, 0.776, 0.266, 0.103, 0.644, 0.001, 0.915, 0.595, 0.917, 0.530, 0.437, 0.465, 0.911, 0.096, 0.821, 0.834, 0.741, 0.684, 0.903, 0.345, 0.261, 0.405, 0.513, 0.709, 0.440, and the bias is 0.928.
+The predicted target value is 0.788, the masked target value is 1, and the predicted label is "friend".
+The real target value is 1.0, and the real label is "friend", so the error is 0.0.
+
+The current weights are 0.308, 0.776, 0.266, 0.103, 0.644, 0.001, 0.915, 0.595, 0.917, 0.530, 0.437, 0.465, 0.911, 0.096, 0.821, 0.834, 0.741, 0.684, 0.903, 0.345, 0.261, 0.405, 0.513, 0.709, 0.440, and the bias is 0.928.
+The predicted target value is 0.332, the masked target value is 1, and the predicted label is "friend".
+The real target value is 1.0, and the real label is "friend", so the error is 0.0.
+
+The current weights are 0.308, 0.776, 0.266, 0.103, 0.644, 0.001, 0.915, 0.595, 0.917, 0.530, 0.437, 0.465, 0.911, 0.096, 0.821, 0.834, 0.741, 0.684, 0.903, 0.345, 0.261, 0.405, 0.513, 0.709, 0.440, and the bias is 0.928.
+The predicted target value is -2.191, the masked target value is -1, and the predicted label is "fry".
+The real target value is 1.0, and the real label is "friend", so the error is 2.0.
+
+The current weights are 0.288, 0.756, 0.246, 0.083, 0.624, -0.019, 0.895, 0.575, 0.897, 0.510, 0.457, 0.485, 0.931, 0.076, 0.801, 0.854, 0.761, 0.704, 0.883, 0.325, 0.281, 0.425, 0.533, 0.689, 0.420, and the bias is 0.948.
+The predicted target value is -1.808, the masked target value is -1, and the predicted label is "fry".
+The real target value is 1.0, and the real label is "friend", so the error is 2.0.
+
+The current weights are 0.268, 0.736, 0.226, 0.063, 0.604, -0.039, 0.875, 0.555, 0.877, 0.490, 0.437, 0.465, 0.951, 0.096, 0.821, 0.834, 0.741, 0.724, 0.903, 0.345, 0.261, 0.405, 0.553, 0.709, 0.440, and the bias is 0.968.
+The predicted target value is -6.912, the masked target value is -1, and the predicted label is "fry".
+The real target value is -1.0, and the real label is "fry", so the error is 0.0.
+
+The current weights are 0.268, 0.736, 0.226, 0.063, 0.604, -0.039, 0.875, 0.555, 0.877, 0.490, 0.437, 0.465, 0.951, 0.096, 0.821, 0.834, 0.741, 0.724, 0.903, 0.345, 0.261, 0.405, 0.553, 0.709, 0.440, and the bias is 0.968.
+The predicted target value is -10.378, the masked target value is -1, and the predicted label is "fry".
+The real target value is -1.0, and the real label is "fry", so the error is 0.0.
+
+The current weights are 0.268, 0.736, 0.226, 0.063, 0.604, -0.039, 0.875, 0.555, 0.877, 0.490, 0.437, 0.465, 0.951, 0.096, 0.821, 0.834, 0.741, 0.724, 0.903, 0.345, 0.261, 0.405, 0.553, 0.709, 0.440, and the bias is 0.968.
+The predicted target value is -10.071, the masked target value is -1, and the predicted label is "fry".
+The real target value is -1.0, and the real label is "fry", so the error is 0.0.
+
+The current weights are 0.268, 0.736, 0.226, 0.063, 0.604, -0.039, 0.875, 0.555, 0.877, 0.490, 0.437, 0.465, 0.951, 0.096, 0.821, 0.834, 0.741, 0.724, 0.903, 0.345, 0.261, 0.405, 0.553, 0.709, 0.440, and the bias is 0.968.
+The predicted target value is -9.597, the masked target value is -1, and the predicted label is "fry".
+The real target value is -1.0, and the real label is "fry", so the error is 0.0.
+
+The current weights are 0.268, 0.736, 0.226, 0.063, 0.604, -0.039, 0.875, 0.555, 0.877, 0.490, 0.437, 0.465, 0.951, 0.096, 0.821, 0.834, 0.741, 0.724, 0.903, 0.345, 0.261, 0.405, 0.553, 0.709, 0.440, and the bias is 0.968.
+The predicted target value is -8.523, the masked target value is -1, and the predicted label is "fry".
+The real target value is -1.0, and the real label is "fry", so the error is 0.0.
+
+The current weights are 0.268, 0.736, 0.226, 0.063, 0.604, -0.039, 0.875, 0.555, 0.877, 0.490, 0.437, 0.465, 0.951, 0.096, 0.821, 0.834, 0.741, 0.724, 0.903, 0.345, 0.261, 0.405, 0.553, 0.709, 0.440, and the bias is 0.968.
+The predicted target value is -8.182, the masked target value is -1, and the predicted label is "fry".
+The real target value is -1.0, and the real label is "fry", so the error is 0.0.
+
+The current weights are 0.268, 0.736, 0.226, 0.063, 0.604, -0.039, 0.875, 0.555, 0.877, 0.490, 0.437, 0.465, 0.951, 0.096, 0.821, 0.834, 0.741, 0.724, 0.903, 0.345, 0.261, 0.405, 0.553, 0.709, 0.440, and the bias is 0.968.
+The predicted target value is -8.576, the masked target value is -1, and the predicted label is "fry".
+The real target value is -1.0, and the real label is "fry", so the error is 0.0.
+
+The current weights are 0.268, 0.736, 0.226, 0.063, 0.604, -0.039, 0.875, 0.555, 0.877, 0.490, 0.437, 0.465, 0.951, 0.096, 0.821, 0.834, 0.741, 0.724, 0.903, 0.345, 0.261, 0.405, 0.553, 0.709, 0.440, and the bias is 0.968.
+The predicted target value is -7.783, the masked target value is -1, and the predicted label is "fry".
+The real target value is -1.0, and the real label is "fry", so the error is 0.0.
+
+After iteration 2, the total error is 6.0000
+
+The current weights are 0.268, 0.736, 0.226, 0.063, 0.604, -0.039, 0.875, 0.555, 0.877, 0.490, 0.437, 0.465, 0.951, 0.096, 0.821, 0.834, 0.741, 0.724, 0.903, 0.345, 0.261, 0.405, 0.553, 0.709, 0.440, and the bias is 0.968.
+The predicted target value is 2.095, the masked target value is 1, and the predicted label is "friend".
+The real target value is 1.0, and the real label is "friend", so the error is 0.0.
+
+The current weights are 0.268, 0.736, 0.226, 0.063, 0.604, -0.039, 0.875, 0.555, 0.877, 0.490, 0.437, 0.465, 0.951, 0.096, 0.821, 0.834, 0.741, 0.724, 0.903, 0.345, 0.261, 0.405, 0.553, 0.709, 0.440, and the bias is 0.968.
+The predicted target value is 0.494, the masked target value is 1, and the predicted label is "friend".
+The real target value is 1.0, and the real label is "friend", so the error is 0.0.
+
+The current weights are 0.268, 0.736, 0.226, 0.063, 0.604, -0.039, 0.875, 0.555, 0.877, 0.490, 0.437, 0.465, 0.951, 0.096, 0.821, 0.834, 0.741, 0.724, 0.903, 0.345, 0.261, 0.405, 0.553, 0.709, 0.440, and the bias is 0.968.
+The predicted target value is 2.203, the masked target value is 1, and the predicted label is "friend".
+The real target value is 1.0, and the real label is "friend", so the error is 0.0.
+
+The current weights are 0.268, 0.736, 0.226, 0.063, 0.604, -0.039, 0.875, 0.555, 0.877, 0.490, 0.437, 0.465, 0.951, 0.096, 0.821, 0.834, 0.741, 0.724, 0.903, 0.345, 0.261, 0.405, 0.553, 0.709, 0.440, and the bias is 0.968.
+The predicted target value is -0.476, the masked target value is -1, and the predicted label is "fry".
+The real target value is 1.0, and the real label is "friend", so the error is 2.0.
+
+The current weights are 0.248, 0.716, 0.206, 0.043, 0.584, -0.019, 0.895, 0.575, 0.857, 0.470, 0.457, 0.485, 0.971, 0.076, 0.801, 0.854, 0.761, 0.744, 0.883, 0.325, 0.241, 0.425, 0.533, 0.689, 0.420, and the bias is 0.988.
+The predicted target value is 1.308, the masked target value is 1, and the predicted label is "friend".
+The real target value is 1.0, and the real label is "friend", so the error is 0.0.
+
+The current weights are 0.248, 0.716, 0.206, 0.043, 0.584, -0.019, 0.895, 0.575, 0.857, 0.470, 0.457, 0.485, 0.971, 0.076, 0.801, 0.854, 0.761, 0.744, 0.883, 0.325, 0.241, 0.425, 0.533, 0.689, 0.420, and the bias is 0.988.
+The predicted target value is 0.532, the masked target value is 1, and the predicted label is "friend".
+The real target value is 1.0, and the real label is "friend", so the error is 0.0.
+
+The current weights are 0.248, 0.716, 0.206, 0.043, 0.584, -0.019, 0.895, 0.575, 0.857, 0.470, 0.457, 0.485, 0.971, 0.076, 0.801, 0.854, 0.761, 0.744, 0.883, 0.325, 0.241, 0.425, 0.533, 0.689, 0.420, and the bias is 0.988.
+The predicted target value is -1.311, the masked target value is -1, and the predicted label is "fry".
+The real target value is 1.0, and the real label is "friend", so the error is 2.0.
+
+The current weights are 0.228, 0.696, 0.186, 0.023, 0.564, -0.039, 0.875, 0.555, 0.837, 0.450, 0.477, 0.505, 0.991, 0.056, 0.781, 0.874, 0.781, 0.764, 0.863, 0.305, 0.261, 0.445, 0.553, 0.669, 0.400, and the bias is 1.008.
+The predicted target value is -1.328, the masked target value is -1, and the predicted label is "fry".
+The real target value is 1.0, and the real label is "friend", so the error is 2.0.
+
+The current weights are 0.208, 0.676, 0.166, 0.003, 0.544, -0.059, 0.855, 0.535, 0.817, 0.430, 0.457, 0.485, 1.011, 0.076, 0.801, 0.854, 0.761, 0.784, 0.883, 0.325, 0.241, 0.425, 0.573, 0.689, 0.420, and the bias is 1.028.
+The predicted target value is -6.432, the masked target value is -1, and the predicted label is "fry".
+The real target value is -1.0, and the real label is "fry", so the error is 0.0.
+
+The current weights are 0.208, 0.676, 0.166, 0.003, 0.544, -0.059, 0.855, 0.535, 0.817, 0.430, 0.457, 0.485, 1.011, 0.076, 0.801, 0.854, 0.761, 0.784, 0.883, 0.325, 0.241, 0.425, 0.573, 0.689, 0.420, and the bias is 1.028.
+The predicted target value is -10.058, the masked target value is -1, and the predicted label is "fry".
+The real target value is -1.0, and the real label is "fry", so the error is 0.0.
+
+The current weights are 0.208, 0.676, 0.166, 0.003, 0.544, -0.059, 0.855, 0.535, 0.817, 0.430, 0.457, 0.485, 1.011, 0.076, 0.801, 0.854, 0.761, 0.784, 0.883, 0.325, 0.241, 0.425, 0.573, 0.689, 0.420, and the bias is 1.028.
+The predicted target value is -9.511, the masked target value is -1, and the predicted label is "fry".
+The real target value is -1.0, and the real label is "fry", so the error is 0.0.
+
+The current weights are 0.208, 0.676, 0.166, 0.003, 0.544, -0.059, 0.855, 0.535, 0.817, 0.430, 0.457, 0.485, 1.011, 0.076, 0.801, 0.854, 0.761, 0.784, 0.883, 0.325, 0.241, 0.425, 0.573, 0.689, 0.420, and the bias is 1.028.
+The predicted target value is -9.357, the masked target value is -1, and the predicted label is "fry".
+The real target value is -1.0, and the real label is "fry", so the error is 0.0.
+
+The current weights are 0.208, 0.676, 0.166, 0.003, 0.544, -0.059, 0.855, 0.535, 0.817, 0.430, 0.457, 0.485, 1.011, 0.076, 0.801, 0.854, 0.761, 0.784, 0.883, 0.325, 0.241, 0.425, 0.573, 0.689, 0.420, and the bias is 1.028.
+The predicted target value is -8.363, the masked target value is -1, and the predicted label is "fry".
+The real target value is -1.0, and the real label is "fry", so the error is 0.0.
+
+The current weights are 0.208, 0.676, 0.166, 0.003, 0.544, -0.059, 0.855, 0.535, 0.817, 0.430, 0.457, 0.485, 1.011, 0.076, 0.801, 0.854, 0.761, 0.784, 0.883, 0.325, 0.241, 0.425, 0.573, 0.689, 0.420, and the bias is 1.028.
+The predicted target value is -7.782, the masked target value is -1, and the predicted label is "fry".
+The real target value is -1.0, and the real label is "fry", so the error is 0.0.
+
+The current weights are 0.208, 0.676, 0.166, 0.003, 0.544, -0.059, 0.855, 0.535, 0.817, 0.430, 0.457, 0.485, 1.011, 0.076, 0.801, 0.854, 0.761, 0.784, 0.883, 0.325, 0.241, 0.425, 0.573, 0.689, 0.420, and the bias is 1.028.
+The predicted target value is -8.016, the masked target value is -1, and the predicted label is "fry".
+The real target value is -1.0, and the real label is "fry", so the error is 0.0.
+
+The current weights are 0.208, 0.676, 0.166, 0.003, 0.544, -0.059, 0.855, 0.535, 0.817, 0.430, 0.457, 0.485, 1.011, 0.076, 0.801, 0.854, 0.761, 0.784, 0.883, 0.325, 0.241, 0.425, 0.573, 0.689, 0.420, and the bias is 1.028.
+The predicted target value is -7.303, the masked target value is -1, and the predicted label is "fry".
+The real target value is -1.0, and the real label is "fry", so the error is 0.0.
+
+After iteration 3, the total error is 6.0000
+
+The current weights are 0.208, 0.676, 0.166, 0.003, 0.544, -0.059, 0.855, 0.535, 0.817, 0.430, 0.457, 0.485, 1.011, 0.076, 0.801, 0.854, 0.761, 0.784, 0.883, 0.325, 0.241, 0.425, 0.573, 0.689, 0.420, and the bias is 1.028.
+The predicted target value is 2.255, the masked target value is 1, and the predicted label is "friend".
+The real target value is 1.0, and the real label is "friend", so the error is 0.0.
+
+The current weights are 0.208, 0.676, 0.166, 0.003, 0.544, -0.059, 0.855, 0.535, 0.817, 0.430, 0.457, 0.485, 1.011, 0.076, 0.801, 0.854, 0.761, 0.784, 0.883, 0.325, 0.241, 0.425, 0.573, 0.689, 0.420, and the bias is 1.028.
+The predicted target value is 0.734, the masked target value is 1, and the predicted label is "friend".
+The real target value is 1.0, and the real label is "friend", so the error is 0.0.
+
+The current weights are 0.208, 0.676, 0.166, 0.003, 0.544, -0.059, 0.855, 0.535, 0.817, 0.430, 0.457, 0.485, 1.011, 0.076, 0.801, 0.854, 0.761, 0.784, 0.883, 0.325, 0.241, 0.425, 0.573, 0.689, 0.420, and the bias is 1.028.
+The predicted target value is 1.963, the masked target value is 1, and the predicted label is "friend".
+The real target value is 1.0, and the real label is "friend", so the error is 0.0.
+
+The current weights are 0.208, 0.676, 0.166, 0.003, 0.544, -0.059, 0.855, 0.535, 0.817, 0.430, 0.457, 0.485, 1.011, 0.076, 0.801, 0.854, 0.761, 0.784, 0.883, 0.325, 0.241, 0.425, 0.573, 0.689, 0.420, and the bias is 1.028.
+The predicted target value is 0.284, the masked target value is 1, and the predicted label is "friend".
+The real target value is 1.0, and the real label is "friend", so the error is 0.0.
+
+The current weights are 0.208, 0.676, 0.166, 0.003, 0.544, -0.059, 0.855, 0.535, 0.817, 0.430, 0.457, 0.485, 1.011, 0.076, 0.801, 0.854, 0.761, 0.784, 0.883, 0.325, 0.241, 0.425, 0.573, 0.689, 0.420, and the bias is 1.028.
+The predicted target value is 1.628, the masked target value is 1, and the predicted label is "friend".
+The real target value is 1.0, and the real label is "friend", so the error is 0.0.
+
+The current weights are 0.208, 0.676, 0.166, 0.003, 0.544, -0.059, 0.855, 0.535, 0.817, 0.430, 0.457, 0.485, 1.011, 0.076, 0.801, 0.854, 0.761, 0.784, 0.883, 0.325, 0.241, 0.425, 0.573, 0.689, 0.420, and the bias is 1.028.
+The predicted target value is 0.772, the masked target value is 1, and the predicted label is "friend".
+The real target value is 1.0, and the real label is "friend", so the error is 0.0.
+
+The current weights are 0.208, 0.676, 0.166, 0.003, 0.544, -0.059, 0.855, 0.535, 0.817, 0.430, 0.457, 0.485, 1.011, 0.076, 0.801, 0.854, 0.761, 0.784, 0.883, 0.325, 0.241, 0.425, 0.573, 0.689, 0.420, and the bias is 1.028.
+The predicted target value is -0.751, the masked target value is -1, and the predicted label is "fry".
+The real target value is 1.0, and the real label is "friend", so the error is 2.0.
+
+The current weights are 0.188, 0.656, 0.146, -0.017, 0.524, -0.079, 0.835, 0.515, 0.797, 0.410, 0.477, 0.505, 1.031, 0.056, 0.781, 0.874, 0.781, 0.804, 0.863, 0.305, 0.261, 0.445, 0.593, 0.669, 0.400, and the bias is 1.048.
+The predicted target value is -0.768, the masked target value is -1, and the predicted label is "fry".
+The real target value is 1.0, and the real label is "friend", so the error is 2.0.
+
+The current weights are 0.168, 0.636, 0.126, -0.037, 0.504, -0.099, 0.815, 0.495, 0.777, 0.390, 0.457, 0.485, 1.051, 0.076, 0.801, 0.854, 0.761, 0.824, 0.883, 0.325, 0.241, 0.425, 0.613, 0.689, 0.420, and the bias is 1.068.
+The predicted target value is -6.112, the masked target value is -1, and the predicted label is "fry".
+The real target value is -1.0, and the real label is "fry", so the error is 0.0.
+
+The current weights are 0.168, 0.636, 0.126, -0.037, 0.504, -0.099, 0.815, 0.495, 0.777, 0.390, 0.457, 0.485, 1.051, 0.076, 0.801, 0.854, 0.761, 0.824, 0.883, 0.325, 0.241, 0.425, 0.613, 0.689, 0.420, and the bias is 1.068.
+The predicted target value is -9.818, the masked target value is -1, and the predicted label is "fry".
+The real target value is -1.0, and the real label is "fry", so the error is 0.0.
+
+The current weights are 0.168, 0.636, 0.126, -0.037, 0.504, -0.099, 0.815, 0.495, 0.777, 0.390, 0.457, 0.485, 1.051, 0.076, 0.801, 0.854, 0.761, 0.824, 0.883, 0.325, 0.241, 0.425, 0.613, 0.689, 0.420, and the bias is 1.068.
+The predicted target value is -9.191, the masked target value is -1, and the predicted label is "fry".
+The real target value is -1.0, and the real label is "fry", so the error is 0.0.
+
+The current weights are 0.168, 0.636, 0.126, -0.037, 0.504, -0.099, 0.815, 0.495, 0.777, 0.390, 0.457, 0.485, 1.051, 0.076, 0.801, 0.854, 0.761, 0.824, 0.883, 0.325, 0.241, 0.425, 0.613, 0.689, 0.420, and the bias is 1.068.
+The predicted target value is -9.197, the masked target value is -1, and the predicted label is "fry".
+The real target value is -1.0, and the real label is "fry", so the error is 0.0.
+
+The current weights are 0.168, 0.636, 0.126, -0.037, 0.504, -0.099, 0.815, 0.495, 0.777, 0.390, 0.457, 0.485, 1.051, 0.076, 0.801, 0.854, 0.761, 0.824, 0.883, 0.325, 0.241, 0.425, 0.613, 0.689, 0.420, and the bias is 1.068.
+The predicted target value is -8.203, the masked target value is -1, and the predicted label is "fry".
+The real target value is -1.0, and the real label is "fry", so the error is 0.0.
+
+The current weights are 0.168, 0.636, 0.126, -0.037, 0.504, -0.099, 0.815, 0.495, 0.777, 0.390, 0.457, 0.485, 1.051, 0.076, 0.801, 0.854, 0.761, 0.824, 0.883, 0.325, 0.241, 0.425, 0.613, 0.689, 0.420, and the bias is 1.068.
+The predicted target value is -7.542, the masked target value is -1, and the predicted label is "fry".
+The real target value is -1.0, and the real label is "fry", so the error is 0.0.
+
+The current weights are 0.168, 0.636, 0.126, -0.037, 0.504, -0.099, 0.815, 0.495, 0.777, 0.390, 0.457, 0.485, 1.051, 0.076, 0.801, 0.854, 0.761, 0.824, 0.883, 0.325, 0.241, 0.425, 0.613, 0.689, 0.420, and the bias is 1.068.
+The predicted target value is -7.616, the masked target value is -1, and the predicted label is "fry".
+The real target value is -1.0, and the real label is "fry", so the error is 0.0.
+
+The current weights are 0.168, 0.636, 0.126, -0.037, 0.504, -0.099, 0.815, 0.495, 0.777, 0.390, 0.457, 0.485, 1.051, 0.076, 0.801, 0.854, 0.761, 0.824, 0.883, 0.325, 0.241, 0.425, 0.613, 0.689, 0.420, and the bias is 1.068.
+The predicted target value is -6.903, the masked target value is -1, and the predicted label is "fry".
+The real target value is -1.0, and the real label is "fry", so the error is 0.0.
+
+After iteration 4, the total error is 4.0000
+
+The current weights are 0.168, 0.636, 0.126, -0.037, 0.504, -0.099, 0.815, 0.495, 0.777, 0.390, 0.457, 0.485, 1.051, 0.076, 0.801, 0.854, 0.761, 0.824, 0.883, 0.325, 0.241, 0.425, 0.613, 0.689, 0.420, and the bias is 1.068.
+The predicted target value is 2.335, the masked target value is 1, and the predicted label is "friend".
+The real target value is 1.0, and the real label is "friend", so the error is 0.0.
+
+The current weights are 0.168, 0.636, 0.126, -0.037, 0.504, -0.099, 0.815, 0.495, 0.777, 0.390, 0.457, 0.485, 1.051, 0.076, 0.801, 0.854, 0.761, 0.824, 0.883, 0.325, 0.241, 0.425, 0.613, 0.689, 0.420, and the bias is 1.068.
+The predicted target value is 0.734, the masked target value is 1, and the predicted label is "friend".
+The real target value is 1.0, and the real label is "friend", so the error is 0.0.
+
+The current weights are 0.168, 0.636, 0.126, -0.037, 0.504, -0.099, 0.815, 0.495, 0.777, 0.390, 0.457, 0.485, 1.051, 0.076, 0.801, 0.854, 0.761, 0.824, 0.883, 0.325, 0.241, 0.425, 0.613, 0.689, 0.420, and the bias is 1.068.
+The predicted target value is 1.963, the masked target value is 1, and the predicted label is "friend".
+The real target value is 1.0, and the real label is "friend", so the error is 0.0.
+
+The current weights are 0.168, 0.636, 0.126, -0.037, 0.504, -0.099, 0.815, 0.495, 0.777, 0.390, 0.457, 0.485, 1.051, 0.076, 0.801, 0.854, 0.761, 0.824, 0.883, 0.325, 0.241, 0.425, 0.613, 0.689, 0.420, and the bias is 1.068.
+The predicted target value is 0.524, the masked target value is 1, and the predicted label is "friend".
+The real target value is 1.0, and the real label is "friend", so the error is 0.0.
+
+The current weights are 0.168, 0.636, 0.126, -0.037, 0.504, -0.099, 0.815, 0.495, 0.777, 0.390, 0.457, 0.485, 1.051, 0.076, 0.801, 0.854, 0.761, 0.824, 0.883, 0.325, 0.241, 0.425, 0.613, 0.689, 0.420, and the bias is 1.068.
+The predicted target value is 1.948, the masked target value is 1, and the predicted label is "friend".
+The real target value is 1.0, and the real label is "friend", so the error is 0.0.
+
+The current weights are 0.168, 0.636, 0.126, -0.037, 0.504, -0.099, 0.815, 0.495, 0.777, 0.390, 0.457, 0.485, 1.051, 0.076, 0.801, 0.854, 0.761, 0.824, 0.883, 0.325, 0.241, 0.425, 0.613, 0.689, 0.420, and the bias is 1.068.
+The predicted target value is 1.012, the masked target value is 1, and the predicted label is "friend".
+The real target value is 1.0, and the real label is "friend", so the error is 0.0.
+
+The current weights are 0.168, 0.636, 0.126, -0.037, 0.504, -0.099, 0.815, 0.495, 0.777, 0.390, 0.457, 0.485, 1.051, 0.076, 0.801, 0.854, 0.761, 0.824, 0.883, 0.325, 0.241, 0.425, 0.613, 0.689, 0.420, and the bias is 1.068.
+The predicted target value is -0.191, the masked target value is -1, and the predicted label is "fry".
+The real target value is 1.0, and the real label is "friend", so the error is 2.0.
+
+The current weights are 0.148, 0.616, 0.106, -0.057, 0.484, -0.119, 0.795, 0.475, 0.757, 0.370, 0.477, 0.505, 1.071, 0.056, 0.781, 0.874, 0.781, 0.844, 0.863, 0.305, 0.261, 0.445, 0.633, 0.669, 0.400, and the bias is 1.088.
+The predicted target value is -0.208, the masked target value is -1, and the predicted label is "fry".
+The real target value is 1.0, and the real label is "friend", so the error is 2.0.
+
+The current weights are 0.128, 0.596, 0.086, -0.077, 0.464, -0.139, 0.775, 0.455, 0.737, 0.350, 0.457, 0.485, 1.091, 0.076, 0.801, 0.854, 0.761, 0.864, 0.883, 0.325, 0.241, 0.425, 0.653, 0.689, 0.420, and the bias is 1.108.
+The predicted target value is -5.792, the masked target value is -1, and the predicted label is "fry".
+The real target value is -1.0, and the real label is "fry", so the error is 0.0.
+
+The current weights are 0.128, 0.596, 0.086, -0.077, 0.464, -0.139, 0.775, 0.455, 0.737, 0.350, 0.457, 0.485, 1.091, 0.076, 0.801, 0.854, 0.761, 0.864, 0.883, 0.325, 0.241, 0.425, 0.653, 0.689, 0.420, and the bias is 1.108.
+The predicted target value is -9.578, the masked target value is -1, and the predicted label is "fry".
+The real target value is -1.0, and the real label is "fry", so the error is 0.0.
+
+The current weights are 0.128, 0.596, 0.086, -0.077, 0.464, -0.139, 0.775, 0.455, 0.737, 0.350, 0.457, 0.485, 1.091, 0.076, 0.801, 0.854, 0.761, 0.864, 0.883, 0.325, 0.241, 0.425, 0.653, 0.689, 0.420, and the bias is 1.108.
+The predicted target value is -8.871, the masked target value is -1, and the predicted label is "fry".
+The real target value is -1.0, and the real label is "fry", so the error is 0.0.
+
+The current weights are 0.128, 0.596, 0.086, -0.077, 0.464, -0.139, 0.775, 0.455, 0.737, 0.350, 0.457, 0.485, 1.091, 0.076, 0.801, 0.854, 0.761, 0.864, 0.883, 0.325, 0.241, 0.425, 0.653, 0.689, 0.420, and the bias is 1.108.
+The predicted target value is -9.037, the masked target value is -1, and the predicted label is "fry".
+The real target value is -1.0, and the real label is "fry", so the error is 0.0.
+
+The current weights are 0.128, 0.596, 0.086, -0.077, 0.464, -0.139, 0.775, 0.455, 0.737, 0.350, 0.457, 0.485, 1.091, 0.076, 0.801, 0.854, 0.761, 0.864, 0.883, 0.325, 0.241, 0.425, 0.653, 0.689, 0.420, and the bias is 1.108.
+The predicted target value is -8.043, the masked target value is -1, and the predicted label is "fry".
+The real target value is -1.0, and the real label is "fry", so the error is 0.0.
+
+The current weights are 0.128, 0.596, 0.086, -0.077, 0.464, -0.139, 0.775, 0.455, 0.737, 0.350, 0.457, 0.485, 1.091, 0.076, 0.801, 0.854, 0.761, 0.864, 0.883, 0.325, 0.241, 0.425, 0.653, 0.689, 0.420, and the bias is 1.108.
+The predicted target value is -7.302, the masked target value is -1, and the predicted label is "fry".
+The real target value is -1.0, and the real label is "fry", so the error is 0.0.
+
+The current weights are 0.128, 0.596, 0.086, -0.077, 0.464, -0.139, 0.775, 0.455, 0.737, 0.350, 0.457, 0.485, 1.091, 0.076, 0.801, 0.854, 0.761, 0.864, 0.883, 0.325, 0.241, 0.425, 0.653, 0.689, 0.420, and the bias is 1.108.
+The predicted target value is -7.216, the masked target value is -1, and the predicted label is "fry".
+The real target value is -1.0, and the real label is "fry", so the error is 0.0.
+
+The current weights are 0.128, 0.596, 0.086, -0.077, 0.464, -0.139, 0.775, 0.455, 0.737, 0.350, 0.457, 0.485, 1.091, 0.076, 0.801, 0.854, 0.761, 0.864, 0.883, 0.325, 0.241, 0.425, 0.653, 0.689, 0.420, and the bias is 1.108.
+The predicted target value is -6.503, the masked target value is -1, and the predicted label is "fry".
+The real target value is -1.0, and the real label is "fry", so the error is 0.0.
+
+After iteration 5, the total error is 4.0000
+
+The current weights are 0.128, 0.596, 0.086, -0.077, 0.464, -0.139, 0.775, 0.455, 0.737, 0.350, 0.457, 0.485, 1.091, 0.076, 0.801, 0.854, 0.761, 0.864, 0.883, 0.325, 0.241, 0.425, 0.653, 0.689, 0.420, and the bias is 1.108.
+The predicted target value is 2.415, the masked target value is 1, and the predicted label is "friend".
+The real target value is 1.0, and the real label is "friend", so the error is 0.0.
+
+The current weights are 0.128, 0.596, 0.086, -0.077, 0.464, -0.139, 0.775, 0.455, 0.737, 0.350, 0.457, 0.485, 1.091, 0.076, 0.801, 0.854, 0.761, 0.864, 0.883, 0.325, 0.241, 0.425, 0.653, 0.689, 0.420, and the bias is 1.108.
+The predicted target value is 0.734, the masked target value is 1, and the predicted label is "friend".
+The real target value is 1.0, and the real label is "friend", so the error is 0.0.
+
+The current weights are 0.128, 0.596, 0.086, -0.077, 0.464, -0.139, 0.775, 0.455, 0.737, 0.350, 0.457, 0.485, 1.091, 0.076, 0.801, 0.854, 0.761, 0.864, 0.883, 0.325, 0.241, 0.425, 0.653, 0.689, 0.420, and the bias is 1.108.
+The predicted target value is 1.963, the masked target value is 1, and the predicted label is "friend".
+The real target value is 1.0, and the real label is "friend", so the error is 0.0.
+
+The current weights are 0.128, 0.596, 0.086, -0.077, 0.464, -0.139, 0.775, 0.455, 0.737, 0.350, 0.457, 0.485, 1.091, 0.076, 0.801, 0.854, 0.761, 0.864, 0.883, 0.325, 0.241, 0.425, 0.653, 0.689, 0.420, and the bias is 1.108.
+The predicted target value is 0.764, the masked target value is 1, and the predicted label is "friend".
+The real target value is 1.0, and the real label is "friend", so the error is 0.0.
+
+The current weights are 0.128, 0.596, 0.086, -0.077, 0.464, -0.139, 0.775, 0.455, 0.737, 0.350, 0.457, 0.485, 1.091, 0.076, 0.801, 0.854, 0.761, 0.864, 0.883, 0.325, 0.241, 0.425, 0.653, 0.689, 0.420, and the bias is 1.108.
+The predicted target value is 2.268, the masked target value is 1, and the predicted label is "friend".
+The real target value is 1.0, and the real label is "friend", so the error is 0.0.
+
+The current weights are 0.128, 0.596, 0.086, -0.077, 0.464, -0.139, 0.775, 0.455, 0.737, 0.350, 0.457, 0.485, 1.091, 0.076, 0.801, 0.854, 0.761, 0.864, 0.883, 0.325, 0.241, 0.425, 0.653, 0.689, 0.420, and the bias is 1.108.
+The predicted target value is 1.252, the masked target value is 1, and the predicted label is "friend".
+The real target value is 1.0, and the real label is "friend", so the error is 0.0.
+
+The current weights are 0.128, 0.596, 0.086, -0.077, 0.464, -0.139, 0.775, 0.455, 0.737, 0.350, 0.457, 0.485, 1.091, 0.076, 0.801, 0.854, 0.761, 0.864, 0.883, 0.325, 0.241, 0.425, 0.653, 0.689, 0.420, and the bias is 1.108.
+The predicted target value is 0.369, the masked target value is 1, and the predicted label is "friend".
+The real target value is 1.0, and the real label is "friend", so the error is 0.0.
+
+The current weights are 0.128, 0.596, 0.086, -0.077, 0.464, -0.139, 0.775, 0.455, 0.737, 0.350, 0.457, 0.485, 1.091, 0.076, 0.801, 0.854, 0.761, 0.864, 0.883, 0.325, 0.241, 0.425, 0.653, 0.689, 0.420, and the bias is 1.108.
+The predicted target value is 0.312, the masked target value is 1, and the predicted label is "friend".
+The real target value is 1.0, and the real label is "friend", so the error is 0.0.
+
+The current weights are 0.128, 0.596, 0.086, -0.077, 0.464, -0.139, 0.775, 0.455, 0.737, 0.350, 0.457, 0.485, 1.091, 0.076, 0.801, 0.854, 0.761, 0.864, 0.883, 0.325, 0.241, 0.425, 0.653, 0.689, 0.420, and the bias is 1.108.
+The predicted target value is -5.792, the masked target value is -1, and the predicted label is "fry".
+The real target value is -1.0, and the real label is "fry", so the error is 0.0.
+
+The current weights are 0.128, 0.596, 0.086, -0.077, 0.464, -0.139, 0.775, 0.455, 0.737, 0.350, 0.457, 0.485, 1.091, 0.076, 0.801, 0.854, 0.761, 0.864, 0.883, 0.325, 0.241, 0.425, 0.653, 0.689, 0.420, and the bias is 1.108.
+The predicted target value is -9.578, the masked target value is -1, and the predicted label is "fry".
+The real target value is -1.0, and the real label is "fry", so the error is 0.0.
+
+The current weights are 0.128, 0.596, 0.086, -0.077, 0.464, -0.139, 0.775, 0.455, 0.737, 0.350, 0.457, 0.485, 1.091, 0.076, 0.801, 0.854, 0.761, 0.864, 0.883, 0.325, 0.241, 0.425, 0.653, 0.689, 0.420, and the bias is 1.108.
+The predicted target value is -8.871, the masked target value is -1, and the predicted label is "fry".
+The real target value is -1.0, and the real label is "fry", so the error is 0.0.
+
+The current weights are 0.128, 0.596, 0.086, -0.077, 0.464, -0.139, 0.775, 0.455, 0.737, 0.350, 0.457, 0.485, 1.091, 0.076, 0.801, 0.854, 0.761, 0.864, 0.883, 0.325, 0.241, 0.425, 0.653, 0.689, 0.420, and the bias is 1.108.
+The predicted target value is -9.037, the masked target value is -1, and the predicted label is "fry".
+The real target value is -1.0, and the real label is "fry", so the error is 0.0.
+
+The current weights are 0.128, 0.596, 0.086, -0.077, 0.464, -0.139, 0.775, 0.455, 0.737, 0.350, 0.457, 0.485, 1.091, 0.076, 0.801, 0.854, 0.761, 0.864, 0.883, 0.325, 0.241, 0.425, 0.653, 0.689, 0.420, and the bias is 1.108.
+The predicted target value is -8.043, the masked target value is -1, and the predicted label is "fry".
+The real target value is -1.0, and the real label is "fry", so the error is 0.0.
+
+The current weights are 0.128, 0.596, 0.086, -0.077, 0.464, -0.139, 0.775, 0.455, 0.737, 0.350, 0.457, 0.485, 1.091, 0.076, 0.801, 0.854, 0.761, 0.864, 0.883, 0.325, 0.241, 0.425, 0.653, 0.689, 0.420, and the bias is 1.108.
+The predicted target value is -7.302, the masked target value is -1, and the predicted label is "fry".
+The real target value is -1.0, and the real label is "fry", so the error is 0.0.
+
+The current weights are 0.128, 0.596, 0.086, -0.077, 0.464, -0.139, 0.775, 0.455, 0.737, 0.350, 0.457, 0.485, 1.091, 0.076, 0.801, 0.854, 0.761, 0.864, 0.883, 0.325, 0.241, 0.425, 0.653, 0.689, 0.420, and the bias is 1.108.
+The predicted target value is -7.216, the masked target value is -1, and the predicted label is "fry".
+The real target value is -1.0, and the real label is "fry", so the error is 0.0.
+
+The current weights are 0.128, 0.596, 0.086, -0.077, 0.464, -0.139, 0.775, 0.455, 0.737, 0.350, 0.457, 0.485, 1.091, 0.076, 0.801, 0.854, 0.761, 0.864, 0.883, 0.325, 0.241, 0.425, 0.653, 0.689, 0.420, and the bias is 1.108.
+The predicted target value is -6.503, the masked target value is -1, and the predicted label is "fry".
+The real target value is -1.0, and the real label is "fry", so the error is 0.0.
+
+After iteration 6, the total error is 0.0000
+
+Taking the exam ....
+For this datapoint, the feature values are F1 = -1.0, F2 = -1.0, F3 = -1.0, F4 = -1.0, F5 = -1.0, F6 = -1.0, F7 = -1.0, F8 = -1.0, F9 = -1.0, F10 = -1.0, F11 = -1.0, F12 = 1.0, F13 = 1.0, F14 = 1.0, F15 = -1.0, F16 = -1.0, F17 = 1.0, F18 = 1.0, F19 = 1.0, F20 = -1.0, F21 = -1.0, F22 = 1.0, F23 = 1.0, F24 = 1.0, F25 = -1.0.
+The target value is predicted to be 0.561, so the masked value would be 1, and the label should be "friend".
+The real target value is 1.0, and the real label is "friend".
+That is correct!
+
+For this datapoint, the feature values are F1 = -1.0, F2 = -1.0, F3 = -1.0, F4 = -1.0, F5 = -1.0, F6 = -1.0, F7 = -1.0, F8 = -1.0, F9 = -1.0, F10 = -1.0, F11 = 1.0, F12 = -1.0, F13 = -1.0, F14 = -1.0, F15 = -1.0, F16 = -1.0, F17 = 1.0, F18 = -1.0, F19 = -1.0, F20 = -1.0, F21 = -1.0, F22 = -1.0, F23 = 1.0, F24 = -1.0, F25 = -1.0.
+The target value is predicted to be -7.548, so the masked value would be -1, and the label should be "fry".
+The real target value is -1.0, and the real label is "fry".
+That is correct!
+
+2 out of 2 test points correctly labeled!
+
