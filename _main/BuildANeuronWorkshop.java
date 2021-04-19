@@ -50,11 +50,11 @@ public class BuildANeuronWorkshop {
 		carol.set_weight( 0.5 );
 		alice.set_bias( 0.0 );
 
-		/* moved the learning process into the 'doing_homework(  )' function */
-		doing_homework( alice, friends, hvm.get_training_set(  ), "Hatfield", "McCoy", true );
+		/* moved the learning process into the 'do_homework(  )' function */
+		do_homework( alice, friends, hvm.get_training_set(  ), "Hatfield", "McCoy", true );
 
-		/* moved the testing steps into the 'taking_exam(  )' function */
-		taking_exam( alice, friends, hvm.get_test_set(  ), "Hatfield", "McCoy" );
+		/* moved the testing steps into the 'take_exam(  )' function */
+		take_exam( alice, friends, hvm.get_test_set(  ), "Hatfield", "McCoy" );
 
 
 		System.out.println(  );
@@ -98,12 +98,12 @@ public class BuildANeuronWorkshop {
 		}
 		alice.set_bias( Math.random(  ) );
 
-		doing_homework( alice, friends, faceData.get_training_set(  ), "friend", "fry", true );
-		taking_exam( alice, friends, faceData.get_test_set(  ), "friend", "fry" );
+		do_homework( alice, friends, faceData.get_training_set(  ), "friend", "fry", true );
+		take_exam( alice, friends, faceData.get_test_set(  ), "friend", "fry" );
 	}
 
 
-	public static void doing_homework( OutputNeuron oNeuron,
+	public static void do_homework( OutputNeuron oNeuron,
 			                           ArrayList< InputNeuron > inputNeurons,
 			                           ArrayList< Datapoint > homework,
 			                           String lbl1,
@@ -165,7 +165,7 @@ public class BuildANeuronWorkshop {
 	}
 
 
-	public static void taking_exam( OutputNeuron oNeuron,
+	public static void take_exam( OutputNeuron oNeuron,
 			                        ArrayList< InputNeuron > inputNeurons,
 			                        ArrayList< Datapoint > exam,
 			                        String lbl1,
